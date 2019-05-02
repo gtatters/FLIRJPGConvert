@@ -1,0 +1,12 @@
+---
+title: "FLIRjpgconvert"
+output: github_document
+---
+
+- A script to extract thermal images from FLIR files, making use of the Thermimage package.  
+
+- This is an old project no longer being updated - See Thermimage or ThermImageJ Readme files for better instructions.
+
+( c ) Glenn J. Tattersall
+
+All scripts written here are used in the normal data analysis in my research laboratory. They are listed here for ease of access to my students and to facilitate updates. If you are interested in using or improving these scripts, feel free to do so.
